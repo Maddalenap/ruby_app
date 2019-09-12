@@ -10,7 +10,7 @@ Make sure you have Ruby installed.
 
 Run in your terminal
 ```
-git clone git@github.com:Maddalenap/script_excel.git
+git clone git@github.com:Maddalenap/ruby_app.git
 
 cd ruby_app
 ```
